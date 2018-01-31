@@ -1,0 +1,36 @@
+html {
+  background: url("https://wallpaperscraft.com/image/the_office_tv_series_steve_carell_boss_96802_3840x2160.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  width: 500px;
+  height: auto;
+  color: white;
+  margin-top: 200px;
+  margin-left: 60px;
+}
+
+#quote {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 24px;
+  color: #186adb;
+}
+
+#person {
+  margin-top: 20px;
+  font-family: 'Quicksand', cursive;
+  font-size: 16px;
+  color: #186adb;
+}
+
+button {
+  margin-top: 10px;
+  height:30px;
+  border-radius: 20%;
+  cursor: pointer;
+}
+
+#tweet {
+  margin-left: 30px;
+}
